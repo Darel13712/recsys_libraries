@@ -1,7 +1,7 @@
-
 | Library                                                      |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Microsoft Recomenders](https://github.com/microsoft/recommenders) | ![](https://img.shields.io/github/stars/microsoft/recommenders?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/microsoft/recommenders?style=flat-square) | ![](https://img.shields.io/github/last-commit/microsoft/recommenders?style=flat-square) |
+| [Turi Create](https://github.com/apple/turicreate)           | ![](https://img.shields.io/github/stars/apple/turicreate?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/apple/turicreate?style=flat-square) | ![](https://img.shields.io/github/last-commit/apple/turicreate?style=flat-square) |
 | [Surprise](https://github.com/NicolasHug/Surprise)           | ![](https://img.shields.io/github/stars/NicolasHug/Surprise?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/NicolasHug/Surprise?style=flat-square) | ![](https://img.shields.io/github/last-commit/NicolasHug/Surprise?style=flat-square) |
 | [LightFM](https://github.com/lyst/lightfm)                   | ![](https://img.shields.io/github/stars/lyst/lightfm?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/lyst/lightfm?style=flat-square) | ![](https://img.shields.io/github/last-commit/lyst/lightfm?style=flat-square) |
 | [spotlight](https://github.com/maciejkula/spotlight)         | ![](https://img.shields.io/github/stars/maciejkula/spotlight?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/maciejkula/spotlight?style=flat-square) | ![](https://img.shields.io/github/last-commit/maciejkula/spotlight?style=flat-square) |
@@ -22,8 +22,3 @@
 | [Elliot](https://github.com/sisinflab/elliot)                | ![](https://img.shields.io/github/stars/sisinflab/elliot?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/sisinflab/elliot?style=flat-square) | ![](https://img.shields.io/github/last-commit/sisinflab/elliot?style=flat-square) |
 | [BetaRecSys](https://github.com/beta-team/beta-recsys)       | ![](https://img.shields.io/github/stars/beta-team/beta-recsys?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/beta-team/beta-recsys?style=flat-square) | ![](https://img.shields.io/github/last-commit/beta-team/beta-recsys?style=flat-square) |
 | [RePlay](https://github.com/sberbank-ai-lab/RePlay)          | ![](https://img.shields.io/github/stars/sberbank-ai-lab/RePlay?style=flat-square) | ![](https://img.shields.io/github/commit-activity/y/sberbank-ai-lab/RePlay?style=flat-square) | ![](https://img.shields.io/github/last-commit/sberbank-ai-lab/RePlay?style=flat-square) |
-
-
-
-
-
